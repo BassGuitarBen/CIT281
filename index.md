@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to CIT 281 GitHub Pages;
 
-You can use the [editor on GitHub](https://github.com/BassGuitarBen/CIT281/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Found below are links to the GitHub Page for each of the CIT 281 Labs and Projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Lab 1](https://bassguitarben.github.io/cit281-lab1/): Installing software as well as getting accustomed to said software.
 
-### Markdown
+[Lab 2](https://bassguitarben.github.io/cit281-lab2/): Learning proficiency in Windows Powershell.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Lab 3](https://bassguitarben.github.io/cit281-lab3/): Learning object methods and arrowfunctions as well as applying node.js functionality.
 
-```markdown
-Syntax highlighted code block
+[Lab 4](https://bassguitarben.github.io/cit281-lab4/): Creating web functionality with fastify and commiting changes to git.
 
-# Header 1
-## Header 2
-### Header 3
+[Lab 5](https://bassguitarben.github.io/cit281-lab5/): Installation and use of Postman to communicate JS with servers.
 
-- Bulleted
-- List
+[Lab 6](https://bassguitarben.github.io/cit281-lab6/): Worked with classes to create classes and edit them with code.
 
-1. Numbered
-2. List
+[Lab 7](https://bassguitarben.github.io/cit281-lab7/): Begin use of Github as well as applying try, catch, finally, and throw.
 
-**Bold** and _Italic_ and `Code` text
+[Lab 8](https://bassguitarben.github.io/cit281-lab8/): Creating web functionality with the affects of .then(), fetch and .catch().
 
-[Link](url) and ![Image](src)
-```
+[Lab 9](https://bassguitarben.github.io/cit281-lab9/): Learn Release Based Workflow on Github.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BassGuitarBen/CIT281/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Project 1](https://bassguitarben.github.io/cit281-p1/): Review of lab 01 and prior CIT and CIS information and application of powershell.
 
-### Support or Contact
+[Project 2](https://bassguitarben.github.io/cit281-p2/): Change/update/add to project 1 as well as now working with commiting changes to git.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Project 3](https://bassguitarben.github.io/cit281-p3/): Go in deeper to functions as well as implementing fastify, node.js, git, to create the project and a web page.
+
+[Project 4](https://bassguitarben.github.io/cit281-p4/): Creating array based functions as well as learning REST API .
+
+[Project 5](https://bassguitarben.github.io/cit281-p5/): Extra credit Monkey vs Gecko game that applies updating classes and arrays as well as creating loops in code.
+
+[Project 6](https://bassguitarben.github.io/cit281-p6/): Working with classes to create new classes and use prior class properties to work with other classes.
+
+[Project 7](https://bassguitarben.github.io/cit281-p7/): This project, the creation of a CIT minor/Cit281 github web page.
